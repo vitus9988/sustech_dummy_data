@@ -1,4 +1,4 @@
-# sustech_dummy_data
+# sustech_dummy_data -> json
 
 sustech 교육을 위한 객체 라벨링 더미 파일 생성 프로그램
 
